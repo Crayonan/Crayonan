@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on several web-development projects in 4 different areas<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with cloud backend<br>🌱 I’m currently getting a better understanding of AWS, Vercel, Coolify Self-Hosted <br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on several web-development projects in 4 different areas<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with cloud backend<br>🌱 I’m currently getting a better understanding of AWS, Vercel, Coolify Self-Hosted <br>💬 Ask me about current projects and collaboration<br>⚡ Fun fact 0.200 m/s response time is considered instant for humans
 
 
 # 💻 Tech Stack:
@@ -11,4 +11,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Crayonan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
